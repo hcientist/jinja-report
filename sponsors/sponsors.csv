@@ -1,0 +1,11 @@
+﻿Institution Name,Level,img,Published to Web,lvldx
+ACM,Pre,acm.jpg,TRUE,1
+George Washington University,Platinum,gw.png,TRUE,2
+GAMA-1,Gold,gama-1.png,TRUE,3
+James Madison University,Gold,jmucs.png,TRUE,3
+Loyola,Academic,loyola.jpg,TRUE,4
+Northeastern University,Academic,northeastern.jpg ,TRUE,4
+University of Mary Washington,Academic,umw.png,TRUE,4
+"University of Maryland, Baltimore County",Academic,umbc_csee_logo.jpg,TRUE,4
+UVA,Academic,uva_cs.jpg,TRUE,4
+Virginia Tech,Academic,vt_cs.jpg,TRUE,4
